@@ -1,0 +1,10 @@
+user ={
+    name:"wan",
+    faculty:"fkekk",
+    phone:{
+        office:"123",
+        mobile:"456"
+    },
+}
+console.log(user.name)
+console.log(user.phone.office)
